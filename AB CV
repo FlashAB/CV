@@ -1,0 +1,134 @@
+<!Doctype html>
+
+<html>
+
+   <head>
+
+   <title>Abraham Alkali's CV</title>
+
+   </head>
+
+   <body>
+
+     <p><h1>Abraham Alkali</h1></p>
+
+     <p><strong>Software Engineer</strong></p>
+
+     <img src="https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-370-456322-512.png" width="50" height="50" />
+
+    <hr/>
+
+    <h2><i>Summary</i></h2>
+
+    <p>I am a young,intelligent and confident man <br/>I am technologically adept
+
+    and always try my best to make an impact wherever i find myself.
+
+    <h2><i>Experience</i></h2>  
+
+    <ul>
+
+      <li><b> Sales attendant</b>
+
+          <p> Haske patent store attendant</p>
+
+      </li>
+
+      <li><b> Aisha Essential Enterprises</b>
+
+          <p>Graphic designer</p>
+
+      </li>
+
+      <li><b>FlourishAnn Montessorri School</b>
+
+          <p>Teacher</p>
+
+      </li>
+
+     </ul>
+
+     <h2><i>Education</i></h2>
+
+     <ul>
+
+        <li><b>Gombe State University</b>
+
+            <p> 2018 - Till date </p>
+
+        </li>
+
+        <li><b>St.James Lutheran Academy</b>
+
+            <p> 2016 - 2017</p>
+
+        </li>
+
+        <li><b>Christian Science College</b>
+
+            <p> 2014 - 2016</p>
+
+        </li>
+
+        <li><b>Nigerian Navy Primary School</b>
+
+            <p> 2009 - 2011 </p>
+
+        </li>
+
+      </ul>
+
+      <h2><i>Skills</i></h2>
+
+      <table border ="1"> 
+
+      <tr>
+
+      <th>Technology</th>
+
+      <td>Graphic design</td>
+
+      <td>use of microsoft</td>
+
+      </tr>
+
+      <tr>
+
+      <th>Soft Skills</th>
+
+      <td>Effective Communication</td>
+
+      <td>Critical thinking</td>
+
+      </tr>
+
+      </table>
+
+      <h2><i>Contact Information</i></h2>
+
+      <a href="https://www.facebook.com/yaradua.alkali" target="_blank"> Facebook link</a>
+
+      <a href="www.instagram.com/abraham_alkali" target="_blank">instagram link</a>
+
+      <a href="wa.me/+2347082274638" target="_blank">WhatsApp link</a>
+
+      <a href="www.twitter.com/abraham_odoma" target="_blank">Twitter link</a>
+
+      <h2><i>Write me a message</i></h2>
+
+      <form>
+
+       <input placeholder="Name" required /><br>
+
+       <input placeholder="Email" required /><br>
+
+       <textarea placeholder="Message" required></textarea><br>
+
+       <input type="submit" value="send"/>
+
+      </form>
+
+   </body>
+
+</html>
+
